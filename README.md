@@ -30,9 +30,3 @@ En este proyecto del Día 1, se aplicaron los siguientes principios:
 1.  **Entropía de Información:** Cuánta incertidumbre hay en una contraseña. A mayor entropía, mayor resistencia a ataques de diccionario.
 2.  **Uso de `secrets` vs `random`:** En ciberseguridad, la aleatoriedad estándar (como `random.py`) es pseudo-aleatoria y predecible. Aquí se utilizó `secrets` para cumplir con estándares de seguridad industrial.
 3.  **Auditoría de Fuerza Bruta:** Cálculo basado en la potencia de cómputo de GPUs masivas modernas ($10^{12}$ intentos por segundo).
-
-## 📸 Preview
-*(Aquí puedes insertar una captura de pantalla de tu aplicación una vez la ejecutes)*
-
----
-**¿Tienes alguna sugerencia para mejorar el Día 2? ¡Házmelo saber!**
