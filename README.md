@@ -1,3 +1,5 @@
+**Password Fortress**
+ 
  ![Python](https://img.shields.io/badge/Python-3.12-blue)
 
 **Password Fortress** es una herramienta de escritorio diseñada para combatir uno de los eslabones más débiles de la cadena de seguridad: las contraseñas predecibles. No solo genera claves, sino que audita la seguridad de las existentes y aplica técnicas de inyección de entropía.
